@@ -1,0 +1,1 @@
+# interview_compare_object_qn
